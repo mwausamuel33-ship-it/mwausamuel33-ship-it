@@ -1,5 +1,14 @@
 Hi am Samuel Mwau 😜 a Software Engineer 
 based in Kenya .
 
+I am Both Into Frontend and Backend 😊 .
+
+I also use Figma for UI designs .
+
+Am still learning my way through Tech
+
+
+
+
 
    
