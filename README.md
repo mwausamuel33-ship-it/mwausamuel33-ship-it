@@ -1,106 +1,181 @@
 # 👋 Hi, I'm Samuel Mwau
 
-### Software Engineer | Full-Stack Developer | Problem Solver
+### Software Engineer | Backend & Full-Stack Developer | Python Developer
 
-I am a Software Engineering graduate with a passion for building reliable, user-focused software solutions. My experience includes developing full-stack web applications, integrating APIs, working with databases, and building real-time systems using modern development tools and frameworks.
+I'm a software developer based in Nairobi, Kenya, who completed the Software Engineering certificate program at **Moringa School**. I enjoy turning ideas into practical software solutions, building APIs, designing database-driven applications, and exploring automation and financial technology.
 
-I enjoy transforming ideas into functional products and continuously expanding my knowledge in software engineering, financial technology, and emerging technologies.
+My work spans backend development, full-stack web applications, real-time data systems, and user-focused digital products. I enjoy learning by building, solving real-world problems, and continuously improving my engineering skills.
 
 ---
 
-## 💼 What I Do
+## 💻 What I Do
 
-* Build Full-Stack Web Applications
-* Develop RESTful APIs
-* Create Responsive User Interfaces
-* Design Database-Driven Systems
-* Integrate Third-Party Services & APIs
-* Explore Trading Automation & Financial Technologies
+- Build backend services and RESTful APIs
+- Develop full-stack web applications
+- Design and integrate relational databases
+- Build responsive and user-friendly interfaces
+- Integrate third-party APIs and real-time WebSocket data
+- Explore trading systems, automation, and FinTech
+- Collaborate on software projects using Git and GitHub
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
+**Languages**
 
-Python • JavaScript • SQL • HTML5 • CSS3
+Python · JavaScript · SQL · HTML5 · CSS3
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
-React.js • Flask
+Flask · FastAPI · React · Streamlit
 
-### Databases
+**Databases & Storage**
 
-PostgreSQL • SQLite
+PostgreSQL · SQLite · Supabase
 
-### Development Tools
+**APIs & Real-Time Systems**
 
-Git • GitHub • Linux • Postman • VS Code • Streamlit
+REST APIs · WebSockets · Third-Party API Integration · JSON
 
-### Core Concepts
+**Tools & Development Environment**
 
-Object-Oriented Programming (OOP)
-REST API Development
-Version Control
-Agile Methodologies
-Software Testing & Debugging
+Git · GitHub · Linux · VS Code · Postman
+
+**Core Concepts**
+
+Object-Oriented Programming · Backend Development · Database Design · Version Control · Debugging · Software Testing · Agile Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 Deriv Trading System
+### 📊 TradePulse — Real-Time Trading Analysis
 
-A real-time trading platform that connects to market data streams through WebSocket APIs, providing monitoring and analytical capabilities for trading environments.
+A Python-based trading analysis project that connects to Deriv market data through WebSockets and explores market behaviour using configurable analysis strategies.
 
-**Technologies:** Python, Streamlit, WebSockets, APIs
+**Key features**
+- Real-time tick data streaming
+- FastAPI backend and Streamlit interface
+- Over/Under and pattern-based analysis strategies
+- Market-regime classification experiments
+
+**Technologies:** Python, FastAPI, Streamlit, WebSockets, APIs
+
+**Repository:** [TradePulse](https://github.com/mwausamuel33-ship-it/tradepulse)
 
 ---
 
-### 🌐 Full-Stack Web Application
+### 🏠 NexaRent — Rental Management SaaS
 
-Developed a complete web application with frontend and backend integration, database management, and API-driven architecture.
+A rental management platform concept inspired by real property management needs, with a focus on helping landlords manage tenants, rental balances, and payments.
 
-**Technologies:** React, Flask, PostgreSQL
+**Planned capabilities**
+- Tenant and property management
+- Rent tracking and outstanding balances
+- M-Pesa Daraja payment integration
+- A clean, user-friendly management dashboard
+
+**Focus:** Backend development, database design, payment integration, and SaaS product development.
+
+**Status:** In development.
 
 ---
 
-### 💻 Portfolio Website
+### 🎣 River & Reed — Fishing Bait E-commerce
 
-Designed and deployed a personal portfolio showcasing projects, technical expertise, and ongoing learning.
+A fishing-bait e-commerce website project focused on presenting products through a clean, nature-inspired shopping experience.
 
-**Technologies:** HTML, CSS, JavaScript
+**Project highlights**
+- Green-and-cream visual identity
+- Product catalogue and shopping experience
+- Flask backend and separate frontend development server
+- GitHub-based source control and deployment work
+
+**Technologies:** Python, Flask, HTML, CSS, JavaScript
+
+**Repository:** [River & Reed](https://github.com/mwausamuel33-ship-it/River-reed)
+
+**Status:** In development.
+
+---
+
+### 📶 Attendify — Wi-Fi Attendance Management
+
+A collaborative software engineering project designed to support attendance tracking through Wi-Fi-based device verification and QR check-ins.
+
+**Project highlights**
+- MAC-address verification workflow
+- QR-code attendance check-ins
+- Session and attendance log management
+- JWT authentication and password hashing
+- API validation using Marshmallow
+
+**Technologies:** Python, Flask, REST APIs, JWT, Marshmallow
+
+**Status:** Team project.
+
+---
+
+### 📔 My Little World — Digital Journaling & Scrapbook
+
+A personal journaling and creative scrapbook application designed around writing, self-expression, memories, and personal growth.
+
+**Current foundation**
+- Create and edit scrapbook pages
+- Add text, photos, emoji stickers, and backgrounds
+- Move elements around a page
+- Save pages locally using IndexedDB with Dexie
+
+**Planned capabilities:** Multiple user accounts, cloud synchronisation, richer scrapbook editing tools, custom themes, and personal-growth features.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Dexie, IndexedDB
+
+**Repository:** [My Little World](https://github.com/mwausamuel33-ship-it/My-Little-World)
+
+**Status:** Early development.
 
 ---
 
 ## 🌱 Current Focus
 
-* Advanced Backend Development
-* Software Architecture
-* Cloud Technologies
-* Financial Technology (FinTech)
-* Artificial Intelligence & Automation
+- Building stronger backend engineering skills with Python, Flask, and FastAPI
+- Designing reliable APIs and database-driven applications
+- Developing practical SaaS products
+- Exploring financial technology and real-time market data
+- Improving software architecture, testing, and deployment
+- Learning more about cloud technologies and AI-assisted development
 
 ---
 
-## 📊 GitHub Goals
+## 🎓 Education
 
-* Build impactful real-world projects
-* Contribute to open-source software
-* Collaborate with developers worldwide
-* Continuously improve code quality and best practices
+**Moringa School — Software Engineering Certificate**
 
----
-
-## 📫 Contact
-
-📧 Email: **[mwausamuel33@gmail.com](mailto:mwausamuel33@gmail.com)**
-
-📱 Phone: **0740 324 524 | 0118 509 612**
-
-🐙 GitHub: **github.com/mwausamel33-ship-it**
+- Certificate coursework completed in 2026
+- Focus areas: Python programming, web development, backend development, REST APIs, databases, Git, and GitHub
 
 ---
 
-### "Building software that solves problems and creates opportunities."
+## 📈 My Development Goals
+
+- Build and ship useful software products
+- Write clean, maintainable, and testable code
+- Contribute to open-source projects
+- Collaborate with other developers
+- Grow through internships, junior developer opportunities, and real-world engineering experience
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: [mwausamuel33@gmail.com](mailto:mwausamuel33@gmail.com)
+- 🐙 GitHub: [@mwausamuel33-ship-it](https://github.com/mwausamuel33-ship-it)
+- 💼 LinkedIn: [Samuel Mwau](https://www.linkedin.com/in/samuel-mwau-5a42a539/)
+
+---
+
+### 💡 My Philosophy
+
+*Build with purpose. Learn by doing. Turn ideas into solutions.*
 
